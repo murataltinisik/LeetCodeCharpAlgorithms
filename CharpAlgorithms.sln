@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindIntersection", "FindInt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordChain", "WordChain\WordChain.csproj", "{9D43582C-C8BD-48D7-8F2C-34ABCD8C71D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecurringCharacter", "RecurringCharacter\RecurringCharacter.csproj", "{CE95C5AD-5D9A-4B25-ACB9-780AF8C1B251}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{9D43582C-C8BD-48D7-8F2C-34ABCD8C71D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D43582C-C8BD-48D7-8F2C-34ABCD8C71D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D43582C-C8BD-48D7-8F2C-34ABCD8C71D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE95C5AD-5D9A-4B25-ACB9-780AF8C1B251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE95C5AD-5D9A-4B25-ACB9-780AF8C1B251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE95C5AD-5D9A-4B25-ACB9-780AF8C1B251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE95C5AD-5D9A-4B25-ACB9-780AF8C1B251}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
