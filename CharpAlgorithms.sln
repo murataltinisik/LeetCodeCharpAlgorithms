@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecurringCharacter", "Recur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalDigitsNumber", "TotalDigitsNumber\TotalDigitsNumber.csproj", "{C861A37F-8285-4476-8C40-B159250F7ECC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PangramControl", "PangramControl\PangramControl.csproj", "{DA47E118-439D-422F-B5E9-A58F445BD0A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{C861A37F-8285-4476-8C40-B159250F7ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C861A37F-8285-4476-8C40-B159250F7ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C861A37F-8285-4476-8C40-B159250F7ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA47E118-439D-422F-B5E9-A58F445BD0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA47E118-439D-422F-B5E9-A58F445BD0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA47E118-439D-422F-B5E9-A58F445BD0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA47E118-439D-422F-B5E9-A58F445BD0A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
