@@ -11,7 +11,7 @@
        for (int j = i + 1; j < str.Length; j++)
        {
            if(temp == str[j].ToString())
-               result = "true";
+               result = str[j].ToString();
        }
     }
 
